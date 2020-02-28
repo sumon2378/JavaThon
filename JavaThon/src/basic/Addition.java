@@ -59,7 +59,7 @@ public class Addition {
 		System.out.println(op);
 		
 		ad.num1=15;
-		ad.num2=25;
+		ad.num2=55;
 		
 		
 		ad.add();
